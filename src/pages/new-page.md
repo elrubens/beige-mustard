@@ -1,5 +1,5 @@
 ---
-title: New page
+title: La nueva
 display_header: true
 subtitle: Esto es el subtítulo
 home:
